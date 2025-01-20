@@ -1,0 +1,39 @@
+{
+    "conditions": [
+        {
+            "condition": "Common Cold",
+            "symptoms": ["runny nose", "sneezing", "congestion", "sore throat", "cough", "body aches"],
+            "solution": "Rest, stay hydrated, and take over-the-counter medications for symptom relief",
+            "medicines": ["Acetaminophen", "Decongestants", "Cough suppressants"],
+            "doctor_type": "General Practitioner if symptoms persist more than a week"
+        },
+        {
+            "condition": "Anxiety",
+            "symptoms": ["worry", "restlessness", "difficulty concentrating", "sleep problems", "panic", "racing thoughts"],
+            "solution": "Practice relaxation techniques, maintain regular exercise, and consider therapy",
+            "medicines": ["SSRIs", "Anti-anxiety medications"],
+            "doctor_type": "Psychiatrist or Mental Health Professional"
+        },
+        {
+            "condition": "Depression",
+            "symptoms": ["sadness", "hopelessness", "loss of interest", "fatigue", "sleep changes", "appetite changes"],
+            "solution": "Seek professional help, maintain regular schedule, exercise, and social support",
+            "medicines": ["Antidepressants", "SSRIs"],
+            "doctor_type": "Psychiatrist or Mental Health Professional"
+        },
+        {
+            "condition": "Migraine",
+            "symptoms": ["severe headache", "nausea", "sensitivity to light", "vision changes", "throbbing pain"],
+            "solution": "Rest in a quiet, dark room, use cold/hot compresses, and take prescribed medications",
+            "medicines": ["Triptans", "NSAIDs", "Anti-nausea medications"],
+            "doctor_type": "Neurologist"
+        },
+        {
+            "condition": "Gastroenteritis",
+            "symptoms": ["nausea", "vomiting", "diarrhea", "stomach pain", "fever", "weakness"],
+            "solution": "Stay hydrated, rest, and follow the BRAT diet (Bananas, Rice, Applesauce, Toast)",
+            "medicines": ["Oral rehydration solutions", "Anti-diarrheal medications"],
+            "doctor_type": "Gastroenterologist if symptoms are severe or persistent"
+        }
+    ]
+}
